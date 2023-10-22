@@ -1,0 +1,17 @@
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\bin\Debug\net7.0\ContactList2.exe
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\bin\Debug\net7.0\ContactList2.deps.json
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\bin\Debug\net7.0\ContactList2.runtimeconfig.json
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\bin\Debug\net7.0\ContactList2.dll
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\bin\Debug\net7.0\ContactList2.pdb
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.csproj.AssemblyReference.cache
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.AssemblyInfo.cs
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.csproj.CopyComplete
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.dll
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\refint\ContactList2.dll
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.pdb
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ContactList2.genruntimeconfig.cache
+C:\Skola\C-Sharp\prac\ContactList2\ContactList2\obj\Debug\net7.0\ref\ContactList2.dll
